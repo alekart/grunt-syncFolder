@@ -1,0 +1,15 @@
+{
+  "name": "grunt-syncFolder",
+  "version": "0.1.0",
+  "description": "Sync two folders. The files absent in source folder are removed in the dest folder, the files absent in dest folder are copied from source folder",
+  "main": "syncFolder.js",
+  "author": "Aleksei Polechin (http://alek.be)",
+  "license": "GPL",
+  "keywords": [
+    "gruntplugin",
+    "sync",
+    "folder",
+    "copy",
+    "remove"
+  ]
+}
