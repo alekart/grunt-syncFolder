@@ -1,3 +1,3 @@
-# grunt-searchm v0.1.0
+# grunt-syncFolder v0.1.0
 
-Grunt search string or regex in files with multiline support and log matches to a json file
+Sync two folders. The files absent in source folder are removed in the dest folder, the files absent in dest folder are copied from source folder
